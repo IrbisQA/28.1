@@ -24,9 +24,8 @@ https://docs.google.com/document/d/1PaPKMweVNdTnsHKUEc_e6tt0sYytADU5KfUh7b7Urj8/
 таблица принятия решений
 
 
-• Тест-кейсы созданы с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1QOFLvDO4NGeBvDJ0YHoLQf_2Ryu3_LSt/edit?usp=sharing&ouid=102354389185086488277&rtpof=true&sd=true
-
-• Были написаны автотесты на языке Python, с применением Page-object паттерна.
+• Тест-кейсы созданы с помощью инструмента Google-таблицы: [
+](https://docs.google.com/spreadsheets/d/1_5AzqCs_WIl_x_TLdAdKQPwkkl5Sriao/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true)• Были написаны автотесты на языке Python, с применением Page-object паттерна.
 
 • Для тестирования фукнционала сайта был использована библиотека Selenium.
 

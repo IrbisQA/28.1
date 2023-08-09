@@ -1,4 +1,4 @@
-# Project_Rostelecom
+# 28.1 Rostelecom
 
 Итоговый проект на курсе автоматизации тестирования QAP в Skillfactory
 

@@ -14,8 +14,8 @@
 
 
 • Были протестированы требования заказчика, и выявлено порядка 30 ошибок, все дефекты были выведены в ввиде комментариев в google docx
-https://docs.google.com/document/d/1PaPKMweVNdTnsHKUEc_e6tt0sYytADU5KfUh7b7Urj8/edit?usp=sharing
-
+[
+](https://docs.google.com/document/d/1AuPIkaYRr7iIuc8A9EKvODBk3YdRZjm2/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true)
 
 • Разработаны тест-кейсы и найдены некоторые баги.
 • При разработке тест-кейсов были применены следующие техники тест-дизайна: 

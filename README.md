@@ -14,8 +14,7 @@
 
 
 • Были протестированы требования заказчика, и выявлено порядка 30 ошибок, все дефекты были выведены в ввиде комментариев в google docx
-[
-](https://docs.google.com/document/d/1AuPIkaYRr7iIuc8A9EKvODBk3YdRZjm2/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true)
+https://docs.google.com/document/d/1AuPIkaYRr7iIuc8A9EKvODBk3YdRZjm2/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true
 
 • Разработаны тест-кейсы и найдены некоторые баги.
 • При разработке тест-кейсов были применены следующие техники тест-дизайна: 
@@ -24,8 +23,10 @@
 таблица принятия решений
 
 
-• Тест-кейсы созданы с помощью инструмента Google-таблицы: [
-](https://docs.google.com/spreadsheets/d/1_5AzqCs_WIl_x_TLdAdKQPwkkl5Sriao/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true)• Были написаны автотесты на языке Python, с применением Page-object паттерна.
+• Тест-кейсы созданы с помощью инструмента Google-таблицы: 
+https://docs.google.com/spreadsheets/d/1_5AzqCs_WIl_x_TLdAdKQPwkkl5Sriao/edit?usp=sharing&ouid=110251300680851483058&rtpof=true&sd=true
+
+Были написаны автотесты на языке Python, с применением Page-object паттерна.
 
 • Для тестирования фукнционала сайта был использована библиотека Selenium.
 
